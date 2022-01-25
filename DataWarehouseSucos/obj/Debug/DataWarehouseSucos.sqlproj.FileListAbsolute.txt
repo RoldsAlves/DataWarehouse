@@ -1,0 +1,5 @@
+D:\Cursos Alura\BI e Data Warehouse\DataBase\DataWarehouseSucos\bin\Debug\DataWarehouseSucos.dacpac
+D:\Cursos Alura\BI e Data Warehouse\DataBase\DataWarehouseSucos\bin\Debug\DataWarehouseSucos.dll
+D:\Cursos Alura\BI e Data Warehouse\DataBase\DataWarehouseSucos\bin\Debug\DataWarehouseSucos.pdb
+D:\Cursos Alura\BI e Data Warehouse\DataBase\DataWarehouseSucos\obj\Debug\DataWarehouseSucos.dll
+D:\Cursos Alura\BI e Data Warehouse\DataBase\DataWarehouseSucos\obj\Debug\DataWarehouseSucos.pdb

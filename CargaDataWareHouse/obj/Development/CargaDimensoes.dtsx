@@ -11,8 +11,8 @@
   DTS:LocaleID="1046"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="20"
-  DTS:VersionGUID="{BE9D8BFF-788B-4C34-9814-1A72E4CC4669}">
+  DTS:VersionBuild="21"
+  DTS:VersionGUID="{966DBB96-66A3-4D6B-91A6-494A26D3E7FF}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -206,7 +206,6 @@
       DTS:refId="Package\Criação da Dimensão Cliente"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Tarefa Fluxo de Dados"
-      DTS:Disabled="True"
       DTS:DTSID="{92221BF9-7EE8-430A-9A40-88ACE6058A15}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
@@ -2961,7 +2960,6 @@
       DTS:refId="Package\Criação da Dimensão Fábrica"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Tarefa Fluxo de Dados"
-      DTS:Disabled="True"
       DTS:DTSID="{4C6C7989-FF28-45FD-B92D-B4A102204109}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
@@ -3767,7 +3765,6 @@ SELECT'003' AS CODIGO, 'Fab. Bahia' AS DESCRITOR</property>
       DTS:refId="Package\Criação da Dimensão Organizacional - Nivel 1"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Tarefa Fluxo de Dados"
-      DTS:Disabled="True"
       DTS:DTSID="{A3753FCF-1F03-4FEF-B661-58097069DD43}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
@@ -4689,7 +4686,6 @@ SELECT'003' AS CODIGO, 'Fab. Bahia' AS DESCRITOR</property>
       DTS:refId="Package\Criação da Dimensão Organizacional - Nivel 1  2"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Tarefa Fluxo de Dados"
-      DTS:Disabled="True"
       DTS:DTSID="{E3837E0D-9FCC-4A9E-BA88-F03AB15923EB}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
@@ -5602,7 +5598,6 @@ SELECT'003' AS CODIGO, 'Fab. Bahia' AS DESCRITOR</property>
       DTS:refId="Package\Criação da Dimensão Organizacional - Nivel 2"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Tarefa Fluxo de Dados"
-      DTS:Disabled="True"
       DTS:DTSID="{8c3d3e42-e4e2-473b-9e7d-81e2e884579d}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
@@ -6657,7 +6652,6 @@ SELECT'003' AS CODIGO, 'Fab. Bahia' AS DESCRITOR</property>
       DTS:refId="Package\Criação da Dimensão Organizacional - Nivel 2  2"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Tarefa Fluxo de Dados"
-      DTS:Disabled="True"
       DTS:DTSID="{0e4444f2-32c7-4f2f-a6bb-dbddec8cead6}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
@@ -7703,7 +7697,6 @@ SELECT'003' AS CODIGO, 'Fab. Bahia' AS DESCRITOR</property>
       DTS:refId="Package\Criação da Dimensão Organizacional - Nivel 3"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Tarefa Fluxo de Dados"
-      DTS:Disabled="True"
       DTS:DTSID="{0733e9e3-f787-4e07-b400-502b923f3f5d}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
@@ -8758,7 +8751,6 @@ SELECT'003' AS CODIGO, 'Fab. Bahia' AS DESCRITOR</property>
       DTS:refId="Package\Criação da Dimensão Produto - Categoria"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Tarefa Fluxo de Dados"
-      DTS:Disabled="True"
       DTS:DTSID="{B1CC9186-7757-45BF-B542-013329D97658}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
@@ -9710,7 +9702,6 @@ SELECT'003' AS CODIGO, 'Fab. Bahia' AS DESCRITOR</property>
       DTS:refId="Package\Criação da Dimensão Produto - Marca"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Tarefa Fluxo de Dados"
-      DTS:Disabled="True"
       DTS:DTSID="{007204fc-855d-43e1-becf-842143cf9942}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
@@ -10669,7 +10660,6 @@ SELECT'003' AS CODIGO, 'Fab. Bahia' AS DESCRITOR</property>
       DTS:refId="Package\Criação da Dimensão Produto - Produto"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Tarefa Fluxo de Dados"
-      DTS:Disabled="True"
       DTS:DTSID="{A6D9AA36-688F-4337-B9A2-CB2FE5831F38}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
@@ -12010,7 +12000,6 @@ SELECT'003' AS CODIGO, 'Fab. Bahia' AS DESCRITOR</property>
       DTS:refId="Package\Criação da Dimensão Tempo"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Tarefa Fluxo de Dados"
-      DTS:Disabled="True"
       DTS:DTSID="{E8C7050A-EB33-4EC2-A24F-5D6ACE3E114E}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
@@ -14307,7 +14296,6 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
       DTS:refId="Package\Executar Rotina Dir Esq Nivel"
       DTS:CreationName="Microsoft.ExecuteSQLTask"
       DTS:Description="Tarefa Executar SQL"
-      DTS:Disabled="True"
       DTS:DTSID="{DB47BBFD-DD7F-4F58-9540-59D6178376B6}"
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
@@ -14325,7 +14313,6 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
       DTS:refId="Package\Transferencia Esq Dir Nivel"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Tarefa Fluxo de Dados"
-      DTS:Disabled="True"
       DTS:DTSID="{B54B11A3-7891-436D-905E-743DAE4F7608}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
@@ -15634,7 +15621,7 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
         <NodeLayout
           Size="185,42"
           Id="Package\Criação da Dimensão Fábrica"
-          TopLeft="38,37" />
+          TopLeft="31,18" />
         <NodeLayout
           Size="293,42"
           Id="Package\Criação da Dimensão Organizacional - Nivel 1"

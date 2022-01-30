@@ -3,7 +3,6 @@ D:\Cursos Alura\BI e Data Warehouse\DataBase\DataWarehouseSucos\bin\Debug\DataWa
 D:\Cursos Alura\BI e Data Warehouse\DataBase\DataWarehouseSucos\bin\Debug\DataWarehouseSucos.pdb
 D:\Cursos Alura\BI e Data Warehouse\DataBase\DataWarehouseSucos\obj\Debug\DataWarehouseSucos.dll
 D:\Cursos Alura\BI e Data Warehouse\DataBase\DataWarehouseSucos\obj\Debug\DataWarehouseSucos.pdb
-D:\Cursos Alura\BI e Data Warehouse\DataBase\DataWarehouseSucos\obj\Debug\DataWarehouseSucos.sqlproj.AssemblyReference.cache
 D:\Cursos Alura\BI e Data Warehouse\DataBase\DataWarehouseSucos\obj\Debug\Model.xml
 D:\Cursos Alura\BI e Data Warehouse\DataBase\DataWarehouseSucos\obj\Debug\refactor.xml
 D:\Cursos Alura\BI e Data Warehouse\DataBase\DataWarehouseSucos\obj\Debug\postdeploy.sql

@@ -7,3 +7,4 @@ D:\Cursos Alura\BI e Data Warehouse\DataBase\DataWarehouseSucos\obj\Debug\Model.
 D:\Cursos Alura\BI e Data Warehouse\DataBase\DataWarehouseSucos\obj\Debug\refactor.xml
 D:\Cursos Alura\BI e Data Warehouse\DataBase\DataWarehouseSucos\obj\Debug\postdeploy.sql
 D:\Cursos Alura\BI e Data Warehouse\DataBase\DataWarehouseSucos\obj\Debug\predeploy.sql
+D:\Cursos Alura\BI e Data Warehouse\DataBase\DataWarehouseSucos\obj\Debug\DataWarehouseSucos.sqlproj.AssemblyReference.cache

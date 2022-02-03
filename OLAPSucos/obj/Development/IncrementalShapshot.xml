@@ -26,7 +26,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>38TrLo84K+kPBpkvxd3YcbDstG0=30/01/2022 14:14:5530/01/2022 13:57:26</TimeStamp>
+        <TimeStamp>QmfR2x7AnWRE/XvX4rNKDSYuo+I=02/02/2022 21:57:5630/01/2022 13:57:26</TimeStamp>
         <ID>
           <String>DW SUCOS</String>
         </ID>
@@ -61,9 +61,37 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>bIg09xFc6x7YYaA2bCIHisTjixo=30/01/2022 15:02:2230/01/2022 14:45:30</TimeStamp>
+        <TimeStamp>bIg09xFc6x7YYaA2bCIHisTjixo=30/01/2022 18:42:3230/01/2022 14:45:30</TimeStamp>
         <ID>
           <String>Tempo</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>/0F6xoJH0e4Hmg8aQngdBFLQnNU=02/02/2022 21:57:5631/01/2022 21:29:56ooR9c0vlM9GcXxoZK1H+CdsUv6I=31/01/2022 21:29:5631/01/2022 21:29:56</TimeStamp>
+        <ID>
+          <String>Vendas</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>Pz4w6/qt2rquZbY70xboFuJXc0M=02/02/2022 21:57:5602/02/2022 21:14:21DHrO0dDRrImkOYv7U6qv1NU3RZ0=02/02/2022 21:14:2102/02/2022 21:14:21</TimeStamp>
+        <ID>
+          <String>Custos</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>tqH++dHfroG8m1dWSCDCWFWIZPg=02/02/2022 21:57:5502/02/2022 21:24:07GNcUzMqXdQ1UXInpEN13uhoGVEU=02/02/2022 21:24:0702/02/2022 21:24:07</TimeStamp>
+        <ID>
+          <String>Presidência</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>mDWJvTWcW0qKUO1Iputws6/0h2I=02/02/2022 22:09:5902/02/2022 21:58:39l4tDfq2rfpmgOI34kpEnHL9jDCs=02/02/2022 21:58:4002/02/2022 21:58:39</TimeStamp>
+        <ID>
+          <String>Presidência Completa</String>
         </ID>
       </ObjectSnapshot>
     </ObjectSnapshots>
@@ -78,5 +106,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2022-01-30T18:02:37.466667Z</LastDeployed>
+  <LastDeployed>2022-02-03T01:28:30.626667Z</LastDeployed>
 </DeploymentSnapshot>

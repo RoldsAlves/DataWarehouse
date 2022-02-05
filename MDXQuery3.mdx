@@ -1,0 +1,3 @@
+select Non Empty ({[Produto].[Produto].Members}) on rows,
+({[Measures].[Faturamento]}) on columns
+from [Completo] where ([Cliente].[Hierarquia Segmento].[Nível Segmento].&[Farmácias].&[Drogas Super Brasília - DF])

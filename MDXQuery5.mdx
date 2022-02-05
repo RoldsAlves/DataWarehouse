@@ -1,0 +1,12 @@
+select({[Cliente].[Estado].&[São Paulo], [Cliente].[Estado].&[Goiais], [Cliente].[Estado].&[Paraná], [Cliente].[Estado].&[Bahia]}) on rows,
+({[Tempo].[Semestre e Ano].Members}) on columns
+from [Completo]
+
+select Hierarchize({[Cliente].[Estado].&[São Paulo], [Cliente].[Estado].&[Goiais], [Cliente].[Estado].&[Paraná], [Cliente].[Estado].&[Bahia]}) on rows,
+({[Tempo].[Semestre e Ano].Members}) on columns
+from [Completo]
+
+select Hierarchize({[Cliente].[Estado].&[São Paulo], [Cliente].[Estado].&[Goiais], 
+[Cliente].[Estado].&[Paraná], [Cliente].[Estado].&[Bahia]}) on columns,
+({[Tempo].[Semestre e Ano].Members}) on rows
+from [Completo]

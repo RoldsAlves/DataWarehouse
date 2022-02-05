@@ -8,12 +8,12 @@
   </Database>
   <Cubes>
     <ProjectItem>
-      <Name>Vendas.cube</Name>
-      <FullPath>Vendas.cube</FullPath>
+      <Name>Completo.cube</Name>
+      <FullPath>Completo.cube</FullPath>
       <Dependencies>
         <ProjectItem>
-          <Name>Vendas.partitions</Name>
-          <FullPath>Vendas.partitions</FullPath>
+          <Name>Completo.partitions</Name>
+          <FullPath>Completo.partitions</FullPath>
         </ProjectItem>
       </Dependencies>
     </ProjectItem>
@@ -38,32 +38,32 @@
       </Dependencies>
     </ProjectItem>
     <ProjectItem>
-      <Name>Presidência Completa.cube</Name>
-      <FullPath>Presidência Completa.cube</FullPath>
+      <Name>Vendas.cube</Name>
+      <FullPath>Vendas.cube</FullPath>
       <Dependencies>
         <ProjectItem>
-          <Name>Presidência Completa.partitions</Name>
-          <FullPath>Presidência Completa.partitions</FullPath>
+          <Name>Vendas.partitions</Name>
+          <FullPath>Vendas.partitions</FullPath>
         </ProjectItem>
       </Dependencies>
     </ProjectItem>
   </Cubes>
   <Dimensions>
     <ProjectItem>
-      <Name>Fabrica.dim</Name>
-      <FullPath>Fabrica.dim</FullPath>
-    </ProjectItem>
-    <ProjectItem>
       <Name>Cliente.dim</Name>
       <FullPath>Cliente.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>Produto.dim</Name>
-      <FullPath>Produto.dim</FullPath>
+      <Name>Fabrica.dim</Name>
+      <FullPath>Fabrica.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
       <Name>Organizacional.dim</Name>
       <FullPath>Organizacional.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Produto.dim</Name>
+      <FullPath>Produto.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
       <Name>Tempo.dim</Name>

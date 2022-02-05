@@ -89,7 +89,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>mDWJvTWcW0qKUO1Iputws6/0h2I=02/02/2022 22:09:5902/02/2022 21:58:39l4tDfq2rfpmgOI34kpEnHL9jDCs=02/02/2022 21:58:4002/02/2022 21:58:39</TimeStamp>
+        <TimeStamp>8FiRFW3hOn5f7G4DcjeknUWtMbs=04/02/2022 18:10:5304/02/2022 17:59:26l4tDfq2rfpmgOI34kpEnHL9jDCs=02/02/2022 21:58:4002/02/2022 21:58:39</TimeStamp>
         <ID>
           <String>Presidência Completa</String>
         </ID>
@@ -106,5 +106,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2022-02-03T01:28:30.626667Z</LastDeployed>
+  <LastDeployed>2022-02-04T21:11:05.876667Z</LastDeployed>
 </DeploymentSnapshot>
